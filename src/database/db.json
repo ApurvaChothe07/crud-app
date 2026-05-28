@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Vinod Devidas Chothe",
+      "username": "Vinod",
+      "email": "VINODCHOTHE@GMAIL.COM",
+      "phone": "7856215623"
+    },
+    {
+      "id": "2",
+      "name": "apurva",
+      "username": "apurva",
+      "email": "APURVACHOTHE@GMAIL.COM",
+      "phone": "8468808450"
+    },
+    {
+      "id": "4",
+      "name": "Neha",
+      "username": "Mona",
+      "email": "mona@gmail.com",
+      "phone": "2132455678"
+    },
+    {
+      "id": "5",
+      "name": "Swati Vinod Chothe",
+      "username": "Mumma",
+      "email": "swati@gmail.com",
+      "phone": "5478696150"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
