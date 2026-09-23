@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+//Only for IntelliJ IDEA Ultimate not for Community Edition
+
+{
+    "name": "Apurva",
+    "email": "apurvachothe@gmail.com",
+    "department": "CSE",
+    "salary": 250000
+}
