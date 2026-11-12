@@ -15,7 +15,7 @@ A modern, production-ready Full-Stack User Management application built with a *
 
 ## Live Demo URLs
 
-- **Frontend Application (Vercel)**: `[Deploying on Vercel - see instructions below]`
+- **Frontend Application (Vercel)**: [https://crud-app-gamma-sage.vercel.app](https://crud-app-gamma-sage.vercel.app)
 - **Backend REST API (Render)**: [https://crud-app-iqyc.onrender.com](https://crud-app-iqyc.onrender.com)
 - **Backend Health Check**: [https://crud-app-iqyc.onrender.com/api/health](https://crud-app-iqyc.onrender.com/api/health)
 - **API Base Endpoint**: [https://crud-app-iqyc.onrender.com/api/users](https://crud-app-iqyc.onrender.com/api/users)
